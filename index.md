@@ -1,15 +1,32 @@
-# Crab For All
+# Farewell to Arms ...and Legs
 
 ### Description
-TITLE is a multi-user interface for controlling a quadruped robot. For each leg on the robot there exists one on the control array which directly controls its position.
+
+In the world of gaming and robotics, there are many examples of one or multiple robots being controlled by a single user.  However, there are far fewer that explore multiple users operating a single entity.  Farewell to Arms ...and Legs is a crab-like creature with four, two-jointed legs articulated by a servo motor at each joint. Four identical legs with potentiometers, instead of  servos, at each joint are mounted to a board and serve as individual controllers by mapping the incoming data to the servo motors on the crab. The applications of this concept are not limited to just entertainment. We envision similar projects that can be used to help develop on team work or communication skills, or more detailed recreations of actual methods of animal locomotion.
 
 ### Team
 
-Melinda Plett, Peter Gyory, Toby Wu
+Melinda Plett
+Peter Gyory
+Toby Wu
 
 ### Resources
 
+- Laser cutter
+- Computer with Arduino and Design software installed
+- Soldering Iron
+- Wire cutters
+- Hot glue gun
 
-### Support or Contact
+### Materials:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Arduino microcontroller
+- 8 servo motors
+- 8 potentiometers
+- 4 caster wheels
+- Flexible wire (silicone coated 30g for “umbilical cord”)
+- Solder and heat shrink tubing
+- Acrylic sheet
+- Misc. hardware to mount control arms
+- Hot glue sticks  
+
