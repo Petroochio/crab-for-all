@@ -1,6 +1,6 @@
 # Farewell to Arms ...and Legs
 
-<iframe src="https://player.vimeo.com/video/268501786" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0">
+<iframe width="560" height="315" src="https://player.vimeo.com/video/268501786" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe>
 
 ### Description
 
