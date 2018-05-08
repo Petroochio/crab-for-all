@@ -6,9 +6,9 @@ In the world of gaming and robotics, there are many examples of one or multiple 
 
 ### Team
 
-Melinda Plett
-Peter Gyory
-Toby Wu
+- Melinda Plett: Chief Solderer
+- Peter Gyory: Chief Coder
+- Toby Wu: Cheif Laser Cutter
 
 ### Resources
 
